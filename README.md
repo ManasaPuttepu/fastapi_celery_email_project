@@ -1,4 +1,4 @@
-# fastapi_celery_email_project
+
 # FastAPI + Celery Email Service
 
 ## Overview
